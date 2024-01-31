@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">
-    Hi~ Thank you for coming, Welcome to follow me!
+    Hi~ Thank you for coming.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
     <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-%23000000.svg?logo=node.js">
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203%20-%232b3847.svg?logo=vue.js">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=jimmynet444.novel" alt="visitors">
 </p>
 
 <br/>
